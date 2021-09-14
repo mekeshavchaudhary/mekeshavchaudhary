@@ -1,3 +1,6 @@
+![Placeit - Online Banner Template for Cryptocurrency Information - Google Chrome 14-09-2021 15_10_18 (2)](https://user-images.githubusercontent.com/89526270/133236758-16a72bb7-b018-4fea-8f11-492c1b547b8b.png)
+
+
 <h1 align="center">Hi 👋, I'm Keshav Chaudhary</h1>
 <h3 align="center">Aspiring CCVT Engineer | Seeking Entry-level Programming | Online Drawing(3D & 2D) | Experience in python(Basic Level) | CSE(Cloud Computing and Virtualization) | UPES</h3>
 
@@ -5,7 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mekeshavchaudhary" alt="mekeshavchaudhary" /></a> </p>
 
-- 🔭 I’m currently working on [Online Drawing](https://drive.google.com/drive/folders/1nPw3xsd9gYK3IHSr-n0Wd2hLMGrGT7fz?usp=sharing)
+<img align="right" alt="Coding" width="400" src="">
+
+- 🔭 I’m currently working on [Online Drawing](https://drive.google.com/drive/folders/1nPw3xsd9gYK3IHSr-n0Wd2hLMGrGT7fz?usp=sharing) and learning java
 
 - 📫 How to reach me **k9971162104@gmail.com**
 

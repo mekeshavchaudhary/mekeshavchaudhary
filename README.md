@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mekeshavchaudhary" alt="mekeshavchaudhary" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/427857/screenshots/16083559/media/586915718aaf36c3d2362c2380b04969.mp4">
 
 - 🔭 I’m currently working on [Online Drawing](https://drive.google.com/drive/folders/1nPw3xsd9gYK3IHSr-n0Wd2hLMGrGT7fz?usp=sharing) and learning java
 

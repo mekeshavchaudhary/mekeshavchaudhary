@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Chaudhary</h1>
-<h3 align="center">Aspiring CCVT Engineer | Seeking Entry-level Programming Position | Online Drawing(3D & 2D) | Experience in python(Basic Level) | CSE(Cloud Computing and Virtualization) | UPES</h3>
+<h3 align="center">Aspiring CCVT Engineer | Seeking Entry-level Programming | Online Drawing(3D & 2D) | Experience in python(Basic Level) | CSE(Cloud Computing and Virtualization) | UPES</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekeshavchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="mekeshavchaudhary" /> </p>
 

@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Keshav Chaudhary</h1>
-<h3 align="center">Aspiring CCVT Engineer | Seeking Entry-level Programming | Online Drawing(3D & 2D) | Experience in python(Basic Level) | CSE(Cloud Computing and Virtualization) | UPES</h3>
+<h3 align="center">Ex-Intern @Indian Railways | Proficient in React, Angular JS & Python | Emerging Developer in React Native, Web 3.0 & Blockchain | Creative Technologist Specializing in Robotics and Automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekeshavchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="mekeshavchaudhary" /> </p>
 
@@ -10,7 +10,7 @@
 
 <p><img align="right"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="400" height="320" /></p>
 
-- 🔭 I’m currently working on [Online Drawing](https://drive.google.com/drive/folders/1nPw3xsd9gYK3IHSr-n0Wd2hLMGrGT7fz?usp=sharing) and learning java
+- 🔭 I’m currently learning Credit Risk Modeling.
 
 - 📫 How to reach me **k9971162104@gmail.com**
 
